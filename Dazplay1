@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", SCTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1626756305~acl=/hls-b/ingest_204_*/*~hmac=616a7e9673dc9f2271a25901182f934c8f1af1a9f2494e261e0c082a6d6d1100/hls-b/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", Indosiar HD
+https://etslive-2-vidio-com.akamaized.net/exp=1626755403~acl=/hls-b/ingest_205_*/*~hmac=4f86b82bc55ee94b325d415a564ead45a52becdb60143ab10a0225772fb74cd4/hls-b/ingest_205_720p/index.m3u8
+
+#######sport######
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="SPORT", beIN Sports 1 ID
+http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="SPORT" ,Bein Sports 2 ID
+http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
