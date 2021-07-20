@@ -10,11 +10,11 @@ https://etslive-2-vidio-com.akamaized.net/exp=1626778330~acl=/vp9/870_stream.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", GTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1626778512~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=846b2e5fc56b26975f5aa30ca086253b4190383c18b49a544a17f6953da96c7c/vp9/778_stream.mpd
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", TRANS TV HD
-
+https://cdnmdc1.useetv.com/joss/133/transtv/chunklist_w2119340846_b1344100_sleng.m3u8?enc=Yabx6VLgtlww_CYp4xnkkw&uid=NzhjMzZjZjVkMGQ3ZWM1ZGI5YmJhZTc4OGNjZDM0ZDg=&exp=1626771609
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", TRANS 7 HD
-
+https://cdnmdc1.useetv.com/joss/133/trans7/chunklist_w1298543033_b1344100_sleng.m3u8?enc=WpVH-JujF3Cflj2noKCQEQ&uid=NzhjMzZjZjVkMGQ3ZWM1ZGI5YmJhZTc4OGNjZDM0ZDg=&exp=1626771608
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", Net TV HD
-
+https://cdnmdc1.useetv.com/joss/133/net/chunklist_w1410856709_b1344100_sleng.m3u8?enc=pHadSo4i3xvmV60lUlOWxw&uid=NzhjMzZjZjVkMGQ3ZWM1ZGI5YmJhZTc4OGNjZDM0ZDg=&exp=1626771605
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", TVRI HD
 https://etslive-2-vidio-com.akamaized.net/exp=1626778714~acl=/vp9/6441_stream.mpd!/vp9/6441/*~hmac=42cd5d70529ee1fbc0bdf37e7c83f1c657d90261bd76cac2929a9d65f2e16ef9/vp9/6441_stream.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", RTV HD
