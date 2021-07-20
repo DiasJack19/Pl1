@@ -4,11 +4,11 @@ https://etslive-2-vidio-com.akamaized.net/exp=1626776378~acl=/vp9/204_stream.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", Indosiar HD
 https://etslive-2-vidio-com.akamaized.net/exp=1626777117~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=bb00af37e14d56934b8fc98a999f20895c30df66d052b5e7647abffe91da535b/vp9/205_stream.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", RCTI HD
-
+https://etslive-2-vidio-com.akamaized.net/exp=1626778143~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=bc6cd78548e63c61271b305ea85b377998fdff0e5e9fc7253dc5fa801cd7447b/vp9/665_stream.mpd
 #EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", MNCTV HD
-
+https://etslive-2-vidio-com.akamaized.net/exp=1626778330~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=d08bc5c774807e649f365cc6ff5cd64f8d52f0f01c5867497c7f09a5f62eb1d1/vp9/870_stream.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", GTV HD
-
+https://etslive-2-vidio-com.akamaized.net/exp=1626778512~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=846b2e5fc56b26975f5aa30ca086253b4190383c18b49a544a17f6953da96c7c/vp9/778_stream.mpd
 #EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", TRANS TV HD
 
 #EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", TRANS 7 HD
@@ -16,9 +16,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1626777117~acl=/vp9/205_stream.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", Net TV HD
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", TVRI HD
-
+https://etslive-2-vidio-com.akamaized.net/exp=1626778714~acl=/vp9/6441_stream.mpd!/vp9/6441/*~hmac=42cd5d70529ee1fbc0bdf37e7c83f1c657d90261bd76cac2929a9d65f2e16ef9/vp9/6441_stream.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", RTV HD
-
 
 
 
