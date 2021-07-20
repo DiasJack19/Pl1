@@ -3,6 +3,24 @@
 https://etslive-2-vidio-com.akamaized.net/exp=1626756305~acl=/hls-b/ingest_204_*/*~hmac=616a7e9673dc9f2271a25901182f934c8f1af1a9f2494e261e0c082a6d6d1100/hls-b/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", Indosiar HD
 https://etslive-2-vidio-com.akamaized.net/exp=1626755403~acl=/hls-b/ingest_205_*/*~hmac=4f86b82bc55ee94b325d415a564ead45a52becdb60143ab10a0225772fb74cd4/hls-b/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", RCTI HD
+https://etslive-2-vidio-com.akamaized.net/exp=1626750004~acl=/hls-p/ingest_665_*/*~hmac=eb2059852daf1974a7133173baeeabed7e1498040bb379ff8862f7e02b5cd2d2/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="Lokal", MNCTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1626761702~acl=/hls-p/ingest_870_*/*~hmac=4c27c530aba7771d1c5a83837a26f94324d7744db8e83a5b93847bc9ccc4889f/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="Lokal", GTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1626751801~acl=/hls-p/ingest_778_*/*~hmac=980539330043f65f49e660eaa34d1ed2696026b108f269111236521575f8abed/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="Lokal", TRANS TV HD
+https://cdn13jtedge.useetv.com/joss/133/transtv/chunklist_w2119340846_b1344100_sleng.m3u8?enc=s3Xsn3rVArDVQHadKsTa1Q&uid=NzhjMzZjZjVkMGQ3ZWM1ZGI5YmJhZTc4OGNjZDM0ZDg=&exp=1626753609
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="Lokal", TRANS 7 HD
+https://cdn13jtedge.useetv.com/joss/133/trans7/chunklist_w1298543033_b1344100_sleng.m3u8?enc=ulmDrNN9yO8Czm8j1ohI2g&uid=NzhjMzZjZjVkMGQ3ZWM1ZGI5YmJhZTc4OGNjZDM0ZDg=&exp=1626753608
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="Lokal", Net TV HD
+https://cdn13jtedge.useetv.com/joss/133/net/chunklist_w1410856709_b1344100_sleng.m3u8?enc=8GFZEkXZPxSjxWzFjR5kBQ&uid=NzhjMzZjZjVkMGQ3ZWM1ZGI5YmJhZTc4OGNjZDM0ZDg=&exp=1626753605
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="Lokal", TVRI HD
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="Lokal", RTV HD
+https://cdn13jtedge.useetv.com/joss/130/rtv/chunklist_w79267229_b684100_sleng.m3u8?enc=mEh7HO7jTfzDdYCrf4fcTw&uid=NzhjMzZjZjVkMGQ3ZWM1ZGI5YmJhZTc4OGNjZDM0ZDg=&exp=1626753606
+
+
 
 #######sport######
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9b088eX.png?v=1.0.0.1" group-title="SPORT", beIN Sports 1 ID
