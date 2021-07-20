@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="Lokal", SCTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1626756305~acl=/hls-b/ingest_204_*/*~hmac=616a7e9673dc9f2271a25901182f934c8f1af1a9f2494e261e0c082a6d6d1100/hls-b/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1626776378~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=c65f4cc2c4343e66b51c46ac279575640f15bc03de5ece38c5b10ea2ed43a532/vp9/204_stream.mpd
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="Lokal", Indosiar HD
 https://etslive-2-vidio-com.akamaized.net/exp=1626755403~acl=/hls-b/ingest_205_*/*~hmac=4f86b82bc55ee94b325d415a564ead45a52becdb60143ab10a0225772fb74cd4/hls-b/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="Lokal", RCTI HD
